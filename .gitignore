@@ -1,1 +1,4 @@
 data/
+.venv/
+.playwright-debs/
+.playwright-libs/
